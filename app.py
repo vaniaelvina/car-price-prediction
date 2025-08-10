@@ -5,8 +5,6 @@ import pandas as pd
 import numpy as np
 
 # --- Model and Pipeline Loading ---
-# The file should be named what you saved it as in the Colab notebook.
-# I'm assuming 'car_price_prediction_model.pkl'.
 MODEL_FILE = 'car_price_prediction_model.pkl'
 
 try:
